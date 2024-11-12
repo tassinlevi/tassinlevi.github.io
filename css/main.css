@@ -1,7 +1,7 @@
 :root
 {
-    --mustard: RGB(255, 180, 40);
-    --manila: RGB(250, 235, 195));
+    --dark-grey: RGB(50, 50, 50);
+    --black: RGB(34, 34, 34);
     --gray: RGB(235,235,235);
     color: var(--mustard);
     background-color:var(--gray);
@@ -10,7 +10,7 @@
 
 .title
 {
-    color: var(--manila);
+    color: var(--black);
 }
 
 h1
