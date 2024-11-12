@@ -3,7 +3,7 @@ th
     border: 2px black;
     padding: 5px;
     font-size: 18pt;
-    color: blue;
+    color: black;
 }
 td
 {
@@ -15,7 +15,12 @@ td
 table
 {
     border-collapse: collapse;
-    background-color: lightgray;
+    background-color: #f9f9f9;
+}
+th
+{
+    background-color: gold;
+    font-size: 18px;
 }
 img
 {
