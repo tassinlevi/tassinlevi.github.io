@@ -1,9 +1,31 @@
-: root
+:root
 {
     --uncblue: RGB(1,45,91);
-    --uncgold: RGB(254,289,54);
+    --uncgold: RGB(254,189,54);
     --uncgray: RGB(235,235,235);
     color: var(--uncblue);
     background-color:var(--uncgray);
     text-align: center;
+}
+
+.title
+{
+    color: var(--uncgold);
+}
+
+h1
+{
+    font-size: 48pt;
+    text-decoration: underline;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+table
+{
+    margin: auto;
 }
