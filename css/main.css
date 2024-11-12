@@ -1,4 +1,9 @@
-Body {
-  background-color: ccf2d1;
-  font-family: Arial, sans-serif;
+: root
+{
+    --uncblue: RGB(1,45,91);
+    --uncgold: RGB(254,289,54);
+    --uncgray: RGB(235,235,235);
+    color: var(--uncblue);
+    background-color:var(--uncgray);
+    text-align: center;
 }
