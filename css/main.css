@@ -19,6 +19,12 @@ header
     color: var(--black);
 }
 
+body
+{
+    background-color: var(--gray);
+    font-family: Arial, sans-serif;
+    color: var(--dark-grey);
+
 h1
 {
     font-size: 52pt;
@@ -26,9 +32,12 @@ h1
     text-decoration: underline; 
 }
 
-h2
+h2 
 {
-    color: var(--mustard);
+    font-size: 28pt;
+    color: var(--dark-grey);
+    margin-top: 20px;
+}
 
 p
 {
@@ -45,5 +54,6 @@ img
 
 table
 {
-    margin: auto;
+    border-collapse: collapse;
+    width: 85%;
 }
