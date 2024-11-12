@@ -1,27 +1,27 @@
 th
 {
-    border: 3px solid darkblue;
-    padding: 7px;
+    border: 2px mustard;
+    padding: 5px;
     font-size: 18pt;
-    color: darkblue;
+    color: blue;
 }
 td
 {
     border: 2px solid black;
-    padding: 7px;
+    padding: 5px;
     font-size: 14pt;
     color: black;
 }
 table
 {
     border-collapse: collapse;
-    background-color: gray;
+    background-color: lightgray;
 }
 img
 {
-    height: 150px;
+    height: 200px;
 }
 h1
 {
-    font-size: 42pt;
+    font-size: 46pt;
 }
