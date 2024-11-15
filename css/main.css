@@ -23,7 +23,7 @@ body
 {
     background-color: var(--gray);
     font-family: Arial, sans-serif;
-    color: var(--dark-grey);
+    color: var(--dark-gray);
 
 h1
 {
@@ -35,7 +35,7 @@ h1
 h2 
 {
     font-size: 28pt;
-    color: var(--dark-grey);
+    color: var(--dark-gray);
     margin-top: 20px;
 }
 
@@ -56,4 +56,9 @@ table
 {
     border-collapse: collapse;
     width: 85%;
+}
+
+a
+{
+    color: dark-gray;
 }
