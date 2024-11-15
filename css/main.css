@@ -65,5 +65,5 @@ a
 
 td
 {
-    color: black;
+    color: var(--black);
 }
