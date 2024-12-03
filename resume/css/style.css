@@ -60,6 +60,14 @@ body
 {
     background-color: #f8faff;
 }
+
+img
+{
+    margin: auto;
+    border-radius: 10px;
+    filter: brightness(0.9);
+}
+
     
 
 
