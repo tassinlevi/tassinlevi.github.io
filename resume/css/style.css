@@ -13,6 +13,8 @@ h1 {
 
 section {
     padding: 14px;
+    margin: 16vw;
+    margin-top: 28px;
 }
 
 #contactinfo img {
@@ -25,3 +27,16 @@ a {
     color: #0066cc;
     text-decoration: underline;
 }
+
+.date strong {
+    color: var(--UNC-Gold);
+    white-space: nowrap;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+
+
