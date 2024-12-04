@@ -45,15 +45,6 @@ section.box ul
     list-style: disc;
 }
 
-section img
-{
-    width: 720px;
-    height: auto;
-    border-radius: 8px;
-    margin: 0 auto 20px;
-    display: block;
-}
-
 a 
 {
     color: #0066cc;
