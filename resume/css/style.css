@@ -16,18 +16,20 @@ h1
 section.box
 {
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     border: 2px;
     border-radius: 8px;
     max-width: 800px;
     text-align: center;
 }
 
-#contactinfo img 
+section img
 {
-    width: 150px;
-    border-radius: 50%;
-    margin: 10px 0;
+    width: 120px;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px auto;
+    display: block;
 }
 
 a 
@@ -45,7 +47,7 @@ a
 ul 
 {
     list-style: none;
-    padding-left: 1rem;
+    padding-left: 0;
 }
 
 h3 
@@ -61,19 +63,8 @@ body
     background-color: #f8faff;
 }
 
-img
-{
-    margin: auto;
-    border-radius: 10px;
-    filter: brightness(0.9);
-}
 
-section
-{
-    border: 5px var(--gray) solid;
-    margin: 18vw;
-    margin-top: 30px;
-}
+
 
     
 
