@@ -25,10 +25,10 @@ section.box
 
 section img
 {
-    width: 120px;
+    width: 720px;
     height: auto;
     border-radius: 8px;
-    margin: 10px auto;
+    margin: 0 auto 20px;
     display: block;
 }
 
