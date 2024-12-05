@@ -45,24 +45,6 @@ section.box ul
     list-style: disc;
 }
 
-a 
-{
-    color: #0066cc;
-    text-decoration: underline;
-}
-
-.date strong 
-{
-    color: var(--UNC-Gold);
-    white-space: nowrap;
-}
-
-ul 
-{
-    list-style: none;
-    padding-left: 0;
-}
-
 h3 
 {
     font-family: 'Arial, sans-serif';
